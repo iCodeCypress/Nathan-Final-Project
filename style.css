@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(127, 255, 255);
+    text-align: center;
+}
+
+h1:hover{
+font-size: 50px;
+color: purple;
+}
+
+h1{
+    color: darkcyan;
+    font-size: 36px;
+    transition: 1s;
+}
+
+p{
+font-size: 40px;
+color: darkblue; 
+border: 7px solid blue;
+border-radius: 30px;
+background-color: white;
+}
+
+button{
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+li{
+    font-size: 25px;
+    color: darkblue;
+}
+
+.button1{
+    margin-bottom: 20px;
+    background-color: black;
+    color: cyan;
+}
+
+.button2{
+    background-color:rgb(0, 0, 0);
+    color: cyan;
+}
+
+.img2{
+width: 290px;
+}

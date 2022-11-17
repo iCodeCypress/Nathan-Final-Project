@@ -1,0 +1,37 @@
+
+
+
+.box1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    height: 500px;
+}
+.box2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    height: 500px;
+}
+.box3 {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    height: 500px;
+}
+
+canvas {
+    height: 150px;
+    margin: 20px;
+}
+
+.canvas1 {
+    background-color: blue;
+
+}
+.canvas2 {
+    background-color: green;
+}
+.canvas3 {
+    background-color: yellow;
+}
